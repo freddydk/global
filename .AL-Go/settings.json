@@ -1,5 +1,6 @@
 {
     "country":  "base",
+    "artifact":  "bcpublicpreview/sandbox//base/latest",
     "appFolders":  [
                        "AMCBanking365Fundamentals\\app",
                        "AnonymizedDataSharing\\app",
