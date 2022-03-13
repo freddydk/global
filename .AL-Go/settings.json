@@ -61,6 +61,7 @@
                         "Email - Microsoft 365 Connector\\test",
                         "Email - Outlook REST API\\test",
                         "Email - SMTP API\\test",
+                        "Email - SMTP API\\test library",
                         "Email - SMTP Connector\\test",
                         "EmailLogging\\test",
                         "EssentialBusinessHeadlines\\test",
