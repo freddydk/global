@@ -87,8 +87,5 @@
                         "VATGroupManagement\\test",
                         "WorldPayPaymentsStandard\\test"
                     ],
-    "enablePerTenantExtensionCop":  false,
-    "installTestApps":  [
-                            ":C:\\Applications\\BaseApp\\Test\\Microsoft_Tests-SMTP.app"
-                        ]
+    "enablePerTenantExtensionCop":  false
 }
