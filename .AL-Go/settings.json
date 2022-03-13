@@ -88,6 +88,6 @@
                     ],
     "enablePerTenantExtensionCop":  false,
     "installTestApps":  [
-                            ":C:\Applications\BaseApp\Test\Microsoft_Tests-SMTP.app"
+                            ":C:\\Applications\\BaseApp\\Test\\Microsoft_Tests-SMTP.app"
                         ]
 }
