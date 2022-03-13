@@ -1,0 +1,26 @@
+﻿[
+    {
+        "Method":  "TestPaymentNotificationUrlIsIncludedInTheLink",
+        "CodeunitName":  "MS - PayPal Standard Tests"
+    },
+    {
+        "Method":  "TestPaymentNotificationDoesNothingIfPendingStatus",
+        "CodeunitName":  "MS - PayPal Standard Tests"
+    },
+    {
+        "Method":  "TestPaymentNotificationDoesNothingIfMissingInvoice",
+        "CodeunitName":  "MS - PayPal Standard Tests"
+    },
+    {
+        "Method":  "TestPaymentNotificationMarksInvoiceAsPartlyPaid",
+        "CodeunitName":  "MS - PayPal Standard Tests"
+    },
+    {
+        "Method":  "TestPaymentNotificationMarksInvoiceAsFullyPaid",
+        "CodeunitName":  "MS - PayPal Standard Tests"
+    },
+    {
+        "Method":  "TestPaymentNotificationMarksInvoiceAsOverPaid",
+        "CodeunitName":  "MS - PayPal Standard Tests"
+    }
+]

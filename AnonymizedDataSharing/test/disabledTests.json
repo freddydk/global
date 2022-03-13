@@ -1,0 +1,18 @@
+﻿[
+    {
+        "Method":  "TestEnoughDataAvailableCustLedgEntries",
+        "CodeunitName":  "MS - Anonym. Data Sharing Test"
+    },
+    {
+        "Method":  "TestEnoughDataAvailableItemLedgEntries",
+        "CodeunitName":  "MS - Anonym. Data Sharing Test"
+    },
+    {
+        "Method":  "TestEnoughDataAvailableGLEntries",
+        "CodeunitName":  "MS - Anonym. Data Sharing Test"
+    },
+    {
+        "Method":  "TestNotEnoughData",
+        "CodeunitName":  "MS - Anonym. Data Sharing Test"
+    }
+]

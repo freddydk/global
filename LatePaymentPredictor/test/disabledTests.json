@@ -1,0 +1,10 @@
+﻿[
+    {
+        "Method":  "TestBackgroundTaskOnCompanyOpen",
+        "CodeunitName":  "LP Prediction Test"
+    },
+    {
+        "Method":  "TestLPPQuery",
+        "CodeunitName":  "LP ML Input Data Test"
+    }
+]

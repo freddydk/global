@@ -1,0 +1,30 @@
+﻿[
+    {
+        "Method":  "TestGPAccountMigration",
+        "CodeunitName":  "GP Account Tests"
+    },
+    {
+        "Method":  "TestGPDimensionsCreation",
+        "CodeunitName":  "GP Account Tests"
+    },
+    {
+        "Method":  "TestGPItemMigration",
+        "CodeunitName":  "GP Item Tests"
+    },
+    {
+        "Method":  "TestGPItemTransactionMigration",
+        "CodeunitName":  "GP Item Transaction Tests"
+    },
+    {
+        "Method":  "TestGPOnPrepareCashFlowData",
+        "CodeunitName":  "GP Forecasting Tests"
+    },
+    {
+        "Method":  "TestGPCashFlowDataValues",
+        "CodeunitName":  "GP Forecasting Tests"
+    },
+    {
+        "Method":  "TestGPCashFlowDataValuesWithCreditMemos",
+        "CodeunitName":  "GP Forecasting Tests"
+    }
+]
